@@ -157,9 +157,18 @@ The backend can be deployed using Strapi Cloud or any Node.js hosting platform.
 
 ## 📷 Screenshots
 
-Add your project screenshots here.
+### 🏠 Home Page
+![Home Page](./home.png.png)
 
----
+### 📊 Activity Dashboard
+![Activity Dashboard](./Activity.png.png)
+
+### 🍔 Food Log Page
+![Food Log](./foodlog.png.png)
+
+### 👤 Profile Page
+![Profile Page](./Profile.png.png)
+
 
 ## 📚 Learning Outcomes
 
